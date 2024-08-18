@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/calligraphed_for_you/static/css/main.8dce27e1.css",
+    "main.js": "/calligraphed_for_you/static/js/main.a8d11aca.js",
+    "static/media/Calligraphed_For_You.pdf": "/calligraphed_for_you/static/media/Calligraphed_For_You.4fed4ff83159b3354433.pdf",
+    "index.html": "/calligraphed_for_you/index.html",
+    "main.8dce27e1.css.map": "/calligraphed_for_you/static/css/main.8dce27e1.css.map",
+    "main.a8d11aca.js.map": "/calligraphed_for_you/static/js/main.a8d11aca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dce27e1.css",
+    "static/js/main.a8d11aca.js"
+  ]
+}
